@@ -1,0 +1,20 @@
+/* Estilos personalizados */
+/* Aquí puedes agregar estilos adicionales según sea necesario */
+html{
+    font-size: 3vw;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.custom-details {
+    margin-bottom: 20px;
+}
+
+.custom-summary {
+    font-weight: bold;
+    cursor: pointer;
+}
